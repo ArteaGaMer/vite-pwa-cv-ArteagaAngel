@@ -14,7 +14,7 @@ const features = [
           <div>
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">PERFIL PERSONAL</h2>
             <p className="mt-4 text-gray-500">
-            Estudiante de 10º cuatrimestre de la carrera de desarrollo y gestión de software, con conocimientos en desarrollo de aplicaciones, análisis de datos, habilidades blandas y conocimiento de la POO.
+            Mi objetivo profesional es ser siempre un desarrollador web altamente competente y experimentado, capaz de diseñar y desarrollar aplicaciones web escalables y seguras que satisfagan las necesidades de los usuarios y de la empresa. Para lograr esto, me comprometo a mantenerme actualizado sobre las últimas tendencias y tecnologías en desarrollo web, mejorar mis habilidades de codificación y trabajar en equipo con otros desarrolladores para crear soluciones efectivas y eficientes.
             </p>
             <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900 sm:text-2xl">EXPERIENCIA</h2>
             <dl className="mt-4 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8">

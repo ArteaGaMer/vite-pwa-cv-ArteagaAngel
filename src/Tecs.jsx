@@ -33,7 +33,7 @@ const skills = [
       name: 'React',
       role: 'Creación de interactividad y dinamismo en aplicaciones web y móviles.',
       imageUrl:
-        'https://assets.stickpng.com/thumbs/584830f5cef1014c0b5e4aa1.png',
+        'https://imgs.search.brave.com/UUe4YZZpHYyfkmaNEI_Nd2NFRVdSQmpOa4DPvPUeags/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9jZG4u/YXV0aDAuY29tL2Js/b2cvcmVhY3QtanMv/cmVhY3QucG5n',
     },
   ]
   
