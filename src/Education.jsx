@@ -1,3 +1,4 @@
+import React from 'react'
 const features = [
     { name: 'Universidad Tecnológica de Chihuahua', description: '| Ingeniería en Desarrollo y Gestión de Software | TSU Área: Desarrollo de Software Multiplataforma ' },
     { name: 'OpenEDG Python Institute  & Cisco Networking Academy', description: '| PCAP: Programming Essentials in Python | Tuve la oportunidad de participar en un proyecto realizado por Solana, en el cual se llevaron a cabo grabaciones de videos educativos.' },

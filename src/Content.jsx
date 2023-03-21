@@ -1,3 +1,4 @@
+import React from 'react'
 const features = [
     { name: 'Blockchain Business School', description: '| Full Stack developer | Desarrollo de aplicaciones blockchain de trazabilidad en next.js.' },
     { name: 'Solana', description: '| Instructor de Solana | Tuve la oportunidad de participar en un proyecto realizado por Solana, en el cual se llevaron a cabo grabaciones de videos educativos.' },
