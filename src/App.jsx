@@ -8,6 +8,9 @@ function App() {
           <img src='/images/arteaga.jpg' className='logo w-40 rounded-[80px]'/>
         </a>
       </div>
+      <p>
+          Ingeniero en Desarrollo y Gestión de Software
+        </p>
       <h1>Ángel Arteaga</h1>
       <div className='card'>
         <p>
